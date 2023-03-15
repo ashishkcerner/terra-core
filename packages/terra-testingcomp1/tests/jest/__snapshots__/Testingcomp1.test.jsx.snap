@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testingcomp1 should render a default component 1`] = `
+<button
+  className="testingcomp1"
+>
+  default
+</button>
+`;
